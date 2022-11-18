@@ -38,7 +38,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=Jeda777" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeda777&theme=default&hide_border=false&theme=dracula" height="150" alt="github streak"  />
-
 </div>
 
 ###
+
+![](https://www.codewars.com/users/Jeda777/badges/small)
