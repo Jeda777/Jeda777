@@ -7,7 +7,6 @@
 ###
 
 - [LinkedIn](https://www.linkedin.com/in/jakub-tomasz-j%C4%99da/)<br/>
-- [Website](https://jakubjeda.me/)
 
 ###
 
