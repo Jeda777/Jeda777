@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jakub and I am a self-taught Front-end Developer from Poland. I have been learning front-end for 2 years. I am currently in my second year of studies in the field of front-end development.</p>
+<p align="left">My name is Jakub, and I am a self-taught Full-stack Developer from Poland. I have been learning for 2 years. I am currently in my second year of studies in computer science.</p>
 
 ###
 
