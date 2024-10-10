@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Jakub, passionate about programming since childhood and currently diving deep into the world of full-stack development. I've been learning and practicing full-stack development for the past three years and  I am currently in my second year of computer science studies.</p>
+<p align="left">Hi! I'm Jakub, passionate about programming since childhood and currently diving deep into the world of full-stack development. I've been learning and practicing full-stack development for the past four years and  I am currently in my third year of computer science studies.</p>
 
 ###
 
